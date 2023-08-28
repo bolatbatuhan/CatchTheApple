@@ -26,7 +26,7 @@ MonoBehaviour:
   m_MinSize: {x: 500, y: 100}
   m_MaxSize: {x: 40480, y: 16192}
   vertical: 0
-  controlID: 12175
+  controlID: 6526
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -149,7 +149,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 12176
+  controlID: 6527
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -507,9 +507,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 751.5085, y: 873.92664, z: -106.61569}
+    m_Target: {x: 837.2257, y: 588.9281, z: -76.38745}
     speed: 2
-    m_Value: {x: 751.5085, y: 873.92664, z: -106.61569}
+    m_Value: {x: 837.2257, y: 588.9281, z: -76.38745}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -555,9 +555,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.029785115, y: 0.11816978, z: 0.00354624, w: 0.9925411}
+    m_Target: {x: -0.0074998196, y: -0.0044999034, z: -0.000033665536, w: 0.9999631}
     speed: 2
-    m_Value: {x: 0.029785115, y: -0.11816978, z: -0.00354624, w: -0.9925411}
+    m_Value: {x: 0.007499819, y: 0.0044999034, z: 0.000033665536, w: -0.99996305}
   m_Size:
     m_Target: 529.80273
     speed: 2
@@ -644,7 +644,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 12177
+  controlID: 6528
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -794,9 +794,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 42590000
-      m_LastClickedID: 22850
-      m_ExpandedIDs: a895ffff1ea2ffff2afbffff
+      m_SelectedIDs: 1488ffff
+      m_LastClickedID: -30700
+      m_ExpandedIDs: 1af9ffff4c5a0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -891,7 +891,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets/Prefabs
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -899,16 +899,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/Prefabs
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\USER\Desktop\Unity Projeler\CatchTheApple\CathTheApple
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: fc5a0000
-    m_LastClickedID: 23292
-    m_ExpandedIDs: 00000000ba5a0000e46c0000
+    m_SelectedIDs: 045c0000
+    m_LastClickedID: 23556
+    m_ExpandedIDs: 00000000fa5b0000fc5b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -936,7 +936,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000ba5a0000e46c0000
+    m_ExpandedIDs: 00000000fa5b0000fc5b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -961,10 +961,10 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 42590000
-    m_LastClickedInstanceID: 22850
+    m_SelectedInstanceIDs: 1488ffff
+    m_LastClickedInstanceID: -30700
     m_HadKeyboardFocusLastEvent: 0
-    m_ExpandedInstanceIDs: 
+    m_ExpandedInstanceIDs: 98690000ae690000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 

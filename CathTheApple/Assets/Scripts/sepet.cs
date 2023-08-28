@@ -37,4 +37,19 @@ public class sepet : MonoBehaviour
             transform.Translate(-hiz * Time.deltaTime, 0, 0);
         }
     }
+
+    public override int GetHashCode()
+    {
+        return base.GetHashCode();
+    }
+
+    public override bool Equals(object other)
+    {
+        return base.Equals(other);
+    }
+
+    public override string ToString()
+    {
+        return base.ToString();
+    }
 }
