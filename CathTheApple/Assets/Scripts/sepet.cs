@@ -12,6 +12,13 @@ public class sepet : MonoBehaviour
 
     public TextMeshProUGUI skor2_txt;
 
+    public ParticleSystem efekt;
+
+    private void Start()
+    {
+        efekt.Stop();
+    }
+
 
 
 
@@ -19,6 +26,7 @@ public class sepet : MonoBehaviour
     {
         if(collision.gameObject.tag == "elma")
         {
+            efekt.Play();
             skor += 10;
             skor2_txt.text = skor.ToString();
             skor2_txt.color = Color.red;
