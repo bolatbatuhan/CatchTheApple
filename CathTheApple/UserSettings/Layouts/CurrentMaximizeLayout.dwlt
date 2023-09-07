@@ -94,7 +94,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 0
+    m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -557,7 +557,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.016479043, y: -0.049473047, z: 0.00081637956, w: 0.9986391}
     speed: 2
-    m_Value: {x: 0.016479045, y: -0.04947305, z: 0.0008163796, w: 0.99863917}
+    m_Value: {x: -0.016479043, y: 0.049473047, z: -0.00081637956, w: -0.9986391}
   m_Size:
     m_Target: 4.801437
     speed: 2
@@ -903,9 +903,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 2afbffffc85a0000
+      m_SelectedIDs: 3a5a0000
+      m_LastClickedID: 23098
+      m_ExpandedIDs: 2afbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1000,7 +1000,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets/LowPolyGround
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -1008,16 +1008,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/LowPolyGround
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\USER\Desktop\Unity Projeler\CatchTheApple\CathTheApple
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 405c0000
-    m_LastClickedID: 23616
-    m_ExpandedIDs: 000000002c5c00002e5c0000305c0000325c0000
+    m_SelectedIDs: 425c0000
+    m_LastClickedID: 23618
+    m_ExpandedIDs: 00000000345c0000365c0000385c00003a5c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1045,7 +1045,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000002c5c00002e5c0000305c0000325c0000
+    m_ExpandedIDs: 00000000345c0000365c0000385c00003a5c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1070,9 +1070,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 
-    m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_SelectedInstanceIDs: 3a5a0000
+    m_LastClickedInstanceID: 23098
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: 98690000ae690000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -1097,7 +1097,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 0}
+    m_ScrollPosition: {x: 0, y: 72}
     m_GridSize: 64
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 263
@@ -1120,8 +1120,8 @@ MonoBehaviour:
     y: 0
     width: 341
     height: 947
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
