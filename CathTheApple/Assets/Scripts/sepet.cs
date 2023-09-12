@@ -11,7 +11,7 @@ public class sepet : MonoBehaviour
     int skor = 0;
 
     public TextMeshProUGUI skor2_txt;
-
+    
     public ParticleSystem efekt;
 
     private void Start()
@@ -36,9 +36,9 @@ public class sepet : MonoBehaviour
 
     void Update()
     {
-        if(Input.GetKey(KeyCode.RightArrow)) 
+        if (Input.GetKey(KeyCode.RightArrow))
         {
-            transform.Translate(hiz*Time.deltaTime,0,0);
+            transform.Translate(hiz * Time.deltaTime, 0, 0);
         }
         if (Input.GetKey(KeyCode.LeftArrow))
         {
